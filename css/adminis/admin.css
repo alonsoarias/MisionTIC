@@ -1,0 +1,104 @@
+.editpanel{
+     background: #ebeef1;
+    margin-left: 220px;
+    padding: 15px;
+    padding-top: 65px;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    }
+    #txtedit a{
+        font-size: 24px;
+    }
+     #txtedit{
+     margin-bottom: 20px;
+    }
+    #cuadro{
+        background: white;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 65%;
+    width: 75%;
+    
+    }
+    #txtedit2{
+        padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+        border-color: #e8ecf3;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    }
+
+  .cajaedit{
+    margin-right: -15px;
+    }
+   .labelxd {
+    text-align: center;
+        margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 7px;
+    width: 16.66666667%;
+    float:left;
+        position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    font-weight: 700;
+}
+#ipc1xd{
+    cursor: not-allowed;
+    background-color: #eee;
+    opacity: 1;}
+.iptxt{
+    width: 83%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.ipcl{
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    color: #555;
+        border: 1px solid #e8ecf3;
+    border-radius: 2px;
+    box-shadow: none;
+    transition: border .25s linear, color .25s linear, background-color .25s linear;
+    -webkit-appearance: none;
+    font-weight: 400;
+    font-size: 13px;
+}
+hr {
+    display: block;
+    margin: 1em 0;
+    padding: 0;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #e8ecf3;
+}
+#panelformad{
+    padding: 15px;
+}
+#ipbtn{
+    color: #444444;
+    background-color: #dde1e7;
+    border-color: #dde1e7;
+    border-radius: 2px;
+    transition: 0.25s linear;
+    font-weight: 400;
+    margin-bottom: 0;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    margin-left: 20%;
+}

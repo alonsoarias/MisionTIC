@@ -1,0 +1,53 @@
+
+
+layout {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    float: left;
+    position: relative;
+    margin: 0;
+
+}
+.icono {
+    padding: 0;
+    width: 20px;
+    margin: 1px;
+    text-align: center;
+    display: inline-block;
+}
+
+.menul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: #535a6c;
+    
+    width: 220px;
+    display: block;
+    background-color: #535a6c;
+    color: #cbced3;
+    height: 100%;
+        top:0;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+    position: absolute;
+    
+}
+a {
+    display: block;
+    padding: 16px 15px;
+    text-decoration: none;
+    color: #cbced3;
+}
+
+.main-navigation {
+    top: 50px;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+    position: absolute;
+    height: 92.2%;
+}
